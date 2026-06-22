@@ -6,5 +6,6 @@ title: 이룸(iroom) 약관 및 정책
 
 - [개인정보처리방침](privacy-policy/)
 - [이용약관](terms-of-service/)
+- [계정 및 데이터 삭제](account-deletion/)
 
 문의: iroomforu@gmail.com
